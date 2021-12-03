@@ -7,7 +7,8 @@ flex lexer.l
 gcc -lm y.tab.c -std=c99 -w
 a < input1.c
 ```
-
+## lab report 
+[link](https://github.com/cherry247/CompilerConstruction-Mini-C-compiler/blob/master/MINI-COMPILER_CC-INNOVATIVE_18BCE168_18BCE177.pdf)
 ## What is LEX?
 
 LEX is a tool used to generate a lexical analyzer. The input is a set of regular expressions in addition to actions. The output is a table driven scanner called lex.yy.c.
